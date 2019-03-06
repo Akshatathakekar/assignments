@@ -1,0 +1,49 @@
+nav p{
+    float: right;
+}
+
+p{
+    float:left;
+}
+.i1
+{
+padding-left: 60px;
+padding-right:60px;
+
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li{
+    float:right;
+}
+h1{
+
+    float: left;
+}
+.cont1
+{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.a2
+{
+color: green;
+}
+.pizza-content
+{
+display: flex;
+}
+
+.sec1
+{
+float:left;
+width:70%;
+background-color:white;
+text-align: left;
+}
