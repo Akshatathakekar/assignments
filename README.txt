@@ -1,4 +1,4 @@
-CSS assignment
+Js assignment
 
 It is in readme file.
 
